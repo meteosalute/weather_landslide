@@ -2,7 +2,7 @@
 
 ### Authors:
 
-*Alessandro Messeri* (a), *Marco Morabito* (a), *Gianni Messeri* (c), *Giada Brandani* (a), *Petralli Martina* (a), *Natali Francesca* (a), *Daniele Grifoni* (d), *Alfonso Crisci* (c), *Gianfranco Gensini* (e), Orlandini Simone (a)
+*Alessandro Messeri* (a), *Marco Morabito* (a), *Gianni Messeri* (c), *Giada Brandani* (a), *Petralli Martina* (a), *Natali Francesca* (a), *Daniele Grifoni* (d), *Alfonso Crisci* (c), *Gianfranco Gensini* (e), *Orlandini Simone* (a)
 
 (a) Interdepartmental Centre of Bioclimatology, University of Florence. Piazzale delle Cascine 18, 50144 Florence, Italy.
 
