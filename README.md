@@ -1,6 +1,6 @@
 ## Weather-related flood and landslide damage: a risk index for Italian regions.
 
-### Authors:
+### Authors
 
 *Alessandro Messeri* (a), *Marco Morabito* (a), *Gianni Messeri* (c), *Giada Brandani* (a), *Petralli Martina* (a), *Natali Francesca* (a), *Daniele Grifoni* (d), *Alfonso Crisci* (c), *Gianfranco Gensini* (e), *Orlandini Simone* (a)
 
